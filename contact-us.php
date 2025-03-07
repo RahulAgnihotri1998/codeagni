@@ -1,7 +1,31 @@
 <?php include('header.php'); ?>
 
 <?php include('nav.php'); ?>
-
+<div class="rts-hosting-banner rts-hosting-banner-bg banner-default-height">
+<div class="container">
+    <div class="row">
+        <div class="banner-area">
+            <div class="rts-hosting-banner rts-hosting-banner__content w-530 contact__banner">
+                <span class="starting__price">Starting at ₹299/month</span>
+                <h1 class="banner-title">
+                    Get Your Business Online
+                </h1>
+                <p class="slogan">Affordable, professional, and fast – Build your website with Code Agni’s subscription-based services. From blogs to e-commerce, we’ve got you covered!</p>
+                <div class="hosting-action">
+                    <a href="#" class="btn__two secondary__bg secondary__color">Explore Plans <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+            <div class="rts-hosting-banner__image contact">
+                <img src="assets/images/banner/banner__contact__image.svg" alt="Website Building Banner">
+                <img class="shape one" src="assets/images/banner/banner__contact__image-sm1.svg" alt="Shape 1">
+                <img class="shape two top-bottom2" src="assets/images/banner/banner__contact__image-sm2.svg" alt="Shape 2">
+                <img class="shape three" src="assets/images/banner/banner__contact__image-sm3.svg" alt="Shape 3">
+                <img class="shape four left-right2" src="assets/images/banner/banner__contact__image-sm4.svg" alt="Shape 4">
+            </div>
+        </div>
+    </div>
+</div>
+</div>
 <!-- CONTACT START -->
 <section class="rts-contact-form no-bg pt--120 pb--120">
     <div class="container">
@@ -13,8 +37,7 @@
                             <i class="fa-thin fa-map-location-dot"></i>
                         </div>
                         <div class="content w-220">
-                            <h5 class="info mb-0">123 Main Street,
-                                New York, AV 10013</h5>
+                            <h5 class="info mb-0">A02, Sanik Churaha, Kanpur, 208011, India</h5>
                         </div>
                     </div>
                 </div>
@@ -27,8 +50,8 @@
                         </div>
                         <div class="content w-220">
                             <h5 class="info mb-0">
-                                <a href="mailto:info@hostie.com">info@hostie.com</a> <br>
-                                <a href="mailto:support@hostie.com">support@hostie.com</a>
+                                <a href="mailto:info@codeagni.com<">info@codeagni.com</a> <br>
+                                <a href="mailto:rahul@codeagni.com<">rahul@codeagni.com</a>
                             </h5>
                         </div>
                     </div>
@@ -42,8 +65,8 @@
                         </div>
                         <div class="content w-220">
                             <h5 class="info mb-0">
-                                <a href="callto:11112542174">(555) 123-4567</a> <br>
-                                <a href="callto:11112542174">(111) 125- 42174</a>
+                                <a href="https://wa.me/919696379756" target="_blank">9696379756</a><br>
+                                <a href="https://wa.me/91821813366">8218133662</a>
                             </h5>
                         </div>
 
@@ -122,51 +145,175 @@
                 </div>
             </div>
             <div class="col-xl-5 col-lg-6 offset-xl-1 col-md-10">
-                <div class="form">
-                    <h5>Send a message</h5>
-                    <form class="form__content" method="post" action="https://html.themewant.com/hostie/mailer.php">
-                        <div class="form__control">
-                            <input type="text" class="input-form" name="name" id="name" placeholder="what is your name?"
-                                required>
-                            <input type="email" class="input-form" name="email" id="email" placeholder="Email Address"
-                                required>
-                        </div>
-                        <div class="form__control">
-                            <input type="text" class="input-form" name="phone" id="phone" placeholder="Phone Number"
-                                required>
-                            <select name="select" id="select" class="input-form">
-                                <option value="1">Select a state</option>
-                                <option value="Bangladesh">Bangladesh</option>
-                                <option value="India">India</option>
-                                <option value="Pakistan">Pakistan</option>
-                                <option value="Nepal">Nepal</option>
-                                <option value="Maldives">Maldives</option>
-                            </select>
-                        </div>
+            <div class="form">
+    <h5>Send a message</h5>
+    <form class="form__content" id="contact-form">
+        <div class="form__control">
+            <input type="text" class="input-form" name="name" id="name" placeholder="What is your name?" required>
+            <div id="name-error" class="error-message" style="display:none;">Please enter your name.</div>
 
-                        <textarea name="message" id="message" cols="30" rows="10"
-                            placeholder="A brief description about your consultation" required></textarea>
-                        <input type="checkbox" name="checkbox" id="checkbox">
-                        <label for="checkbox">
-                            By submitting your information you provide written consent
-                            to hostie and its family of brands contacting you.
-                        </label>
-                        <button type="submit" class="submit__btn">Submit Now</button>
-                    </form>
-                </div>
-            </div>
+            <input type="email" class="input-form" name="email" id="email" placeholder="Email Address" required>
+            <div id="email-error" class="error-message" style="display:none;">Please enter a valid email address.</div>
+        </div>
+
+        <div class="form__control">
+            <input type="text" class="input-form" name="phone" id="phone" placeholder="Phone Number" required>
+            <div id="phone-error" class="error-message" style="display:none;">Please enter your phone number.</div>
+
+            <select name="plan" id="plan" class="input-form" required>
+                <option value="1">Select a plan</option>
+                <option value="Basic">Basic Plan</option>
+                <option value="Standard">Standard Plan</option>
+                <option value="Premium">Premium Plan</option>
+            </select>
+            <div id="plan-error" class="error-message" style="display:none;">Please select a plan.</div>
+        </div>
+
+        <textarea name="message" id="message" cols="30" rows="10" placeholder="A brief description about your consultation" required></textarea>
+        <div id="message-error" class="error-message" style="display:none;">Please enter a message.</div>
+
+        <input type="checkbox" name="checkbox" id="checkbox" required>
+        <label for="checkbox">
+            By submitting your information, you provide written consent to Hostie and its family of brands contacting you.
+        </label>
+        <div id="checkbox-error" class="error-message" style="display:none;">You must accept the terms to proceed.</div>
+
+        <button type="submit" class="submit__btn" id="submit-btn">Submit Now</button>
+    </form>
+
+    <!-- Success / Error message div -->
+    <div id="response-message" style="display:none; margin-top: 10px; font-weight: bold;"></div>
+    </div>
+</div>
+
+<!-- Add some basic styles for error messages -->
+
+</style>
         </div>
     </div>
 </section>
 <!-- CONTACT END -->
+<!-- Add some basic styles for error messages -->
+<style>
+    .error-message {
+        color: red;
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    #response-message {
+        padding: 10px;
+        border-radius: 5px;
+        text-align: center;
+    }
+</style>
 
+<script>
+document.getElementById("contact-form").addEventListener("submit", function (event) {
+    event.preventDefault(); // Prevent default form submission
+
+    let isValid = true;
+    let formData = new FormData(this);
+    let submitButton = document.getElementById("submit-btn");
+    let responseMessage = document.getElementById("response-message");
+
+    // Name validation
+    let name = document.getElementById("name").value.trim();
+    if (name === "") {
+        document.getElementById("name-error").style.display = "block";
+        isValid = false;
+    } else {
+        document.getElementById("name-error").style.display = "none";
+    }
+
+    // Email validation
+    let email = document.getElementById("email").value.trim();
+    let emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailPattern.test(email)) {
+        document.getElementById("email-error").style.display = "block";
+        isValid = false;
+    } else {
+        document.getElementById("email-error").style.display = "none";
+    }
+
+    // Phone validation
+    let phone = document.getElementById("phone").value.trim();
+    let phonePattern = /^[0-9]{10,15}$/;
+    if (!phonePattern.test(phone)) {
+        document.getElementById("phone-error").style.display = "block";
+        isValid = false;
+    } else {
+        document.getElementById("phone-error").style.display = "none";
+    }
+
+    // Plan selection validation
+    let plan = document.getElementById("plan").value;
+    if (plan === "1") {
+        document.getElementById("plan-error").style.display = "block";
+        isValid = false;
+    } else {
+        document.getElementById("plan-error").style.display = "none";
+    }
+
+    // Message validation
+    let message = document.getElementById("message").value.trim();
+    if (message === "") {
+        document.getElementById("message-error").style.display = "block";
+        isValid = false;
+    } else {
+        document.getElementById("message-error").style.display = "none";
+    }
+
+    // Checkbox validation
+    let checkbox = document.getElementById("checkbox").checked;
+    if (!checkbox) {
+        document.getElementById("checkbox-error").style.display = "block";
+        isValid = false;
+    } else {
+        document.getElementById("checkbox-error").style.display = "none";
+    }
+
+    if (!isValid) return; // Stop if validation fails
+
+    // Disable button and show submitting text
+    submitButton.disabled = true;
+    submitButton.textContent = "Submitting...";
+
+    // Send form data using AJAX (fetch)
+    fetch("submit.php", {
+        method: "POST",
+        body: formData
+    })
+    .then(response => response.json()) // Parse JSON response
+    .then(data => {
+        if (data.status === "success") {
+            responseMessage.style.color = "green";
+            responseMessage.textContent = data.message;
+        } else {
+            responseMessage.style.color = "red";
+            responseMessage.textContent = data.message;
+        }
+        responseMessage.style.display = "block";
+    })
+    .catch(error => {
+        console.error("Error:", error);
+        responseMessage.style.color = "red";
+        responseMessage.textContent = "An error occurred. Please try again.";
+        responseMessage.style.display = "block";
+    })
+    .finally(() => {
+        // Restore button state
+        submitButton.disabled = false;
+        submitButton.textContent = "Submit Now";
+    });
+});
+</script>
 <!-- CONTACT MAP -->
 <section class="rts-contact-map-area">
     <div class="section-inner">
         <div class="contact-map-area-fluid">
-            <iframe class="contact-map"
-                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14602.288851207937!2d90.47855065!3d23.798243149999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1663151706353!5m2!1sen!2sbd"
-                style="border:0;" allowfullscreen="" loading="lazy"
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.8118688701784!2d80.33767052868718!3d26.400786404012088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c46eb1bc7ddd7%3A0xa1534fc84ddb591!2sSainik%20Chauraha%2C%20Yashoda%20Nagar%2C%20Kanpur%2C%20Uttar%20Pradesh%20208011!5e0!3m2!1sen!2sin!4v1738760978736!5m2!1sen!2sin"
+                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>

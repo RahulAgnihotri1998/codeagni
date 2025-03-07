@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/          # Block admin areas if applicable
+Disallow: /private/        # Block private dirs if any
+Sitemap: https://codeagni.com/sitemap.xml

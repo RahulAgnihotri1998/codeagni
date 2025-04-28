@@ -44,29 +44,20 @@
         <div class="row align-items-end position-relative">
             <div class="col-lg-6">
                 <div class="rts-hero__content w-550">
-                    <!-- <h6 data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-                            <path
-                                d="M23.9799 11.9805C23.9799 10.3545 23.2659 8.8205 22.0549 7.8565C22.1949 6.2345 21.6149 4.6455 20.4649 3.4945C19.3149 2.3455 17.7299 1.7635 16.1879 1.9395C14.1739 -0.616499 9.82288 -0.664499 7.85588 1.9045C4.62288 1.5205 1.51388 4.5645 1.93988 7.7725C-0.616121 9.7865 -0.665121 14.1375 1.90488 16.1055C1.76488 17.7275 2.34488 19.3165 3.49488 20.4675C4.64488 21.6165 6.23188 22.1985 7.77188 22.0225C9.78588 24.5785 14.1369 24.6265 16.1039 22.0575C17.7239 22.1965 19.3139 21.6185 20.4649 20.4675C21.6139 19.3175 22.1939 17.7275 22.0299 16.1905C23.2659 15.1425 23.9799 13.6085 23.9799 11.9825V11.9805ZM7.97988 8.9805C7.98588 7.6725 9.97388 7.6725 9.97988 8.9805C9.97388 10.2885 7.98588 10.2885 7.97988 8.9805ZM10.8119 15.5355C10.5039 15.9985 9.87888 16.1165 9.42488 15.8125C8.96488 15.5065 8.84088 14.8855 9.14788 14.4255L13.1479 8.4255C13.4539 7.9665 14.0739 7.8405 14.5349 8.1485C14.9949 8.4545 15.1189 9.0755 14.8119 9.5355L10.8119 15.5355ZM14.9799 15.9805C13.6719 15.9745 13.6719 13.9865 14.9799 13.9805C16.2879 13.9865 16.2879 15.9745 14.9799 15.9805Z"
-                                fill="#FFC107" />
-                        </svg>
-                      
-                    </h6> -->
-                    <h1 class="heading" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
+                    <h1 class="heading">
                         Build Your Dream Website for Just ₹299/month!
                     </h1>
-                    <p class="description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">
+                    <p class="description">
                         Get a professionally designed website with all the features you need, updated and live, without
                         the hefty upfront costs.
                     </p>
-                    <div class="rts-hero__content--group" data-sal="slide-down" data-sal-delay="500"
-                        data-sal-duration="800">
+                    <div class="rts-hero__content--group">
                         <a class="primary__btn white__bg" href="contact-us.php">Contact Us <i
                                 class="fa-solid fa-long-arrow-right"></i></a>
-                        <a class="btn__zero plan__btn" href="contact-us.php">Plans &amp; Pricing <i
+                        <a class="btn__zero plan__btn" href="contact-us.php">Plans & Pricing <i
                                 class="fa-solid fa-long-arrow-right"></i></a>
                     </div>
-                    <p data-sal="slide-down" data-sal-delay="600" data-sal-duration="800">
+                    <p>
                         <img alt="" src="assets/images/icon/dollar.svg" />Starting from <span>₹299</span> per month
                     </p>
                 </div>
@@ -76,38 +67,19 @@
                     <div class="rts-hero-main">
                         <div class="image-main">
                             <picture>
-                                <!-- Mobile Image -->
                                 <source
-                                    srcset="https://codeagni.com/optimized_images/Untitled_design__3_-removebg-preview.webp"
-                                    media="(max-width: 768px)" width="287" height="362">
-
-                                <!-- Desktop Image -->
+                                    srcset="https://codeagni.com/optimized_images/Untitled_design__3_-removebg-preview.webp 300w"
+                                    media="(min-width: 769px)" width="300" height="378">
                                 <source
-                                    srcset="https://codeagni.com/optimized_images/Untitled_design__3_-removebg-preview.webp"
-                                    media="(min-width: 769px)" width="393" height="495">
-
-                                <!-- Default Fallback -->
+                                    srcset="https://codeagni.com/optimized_images/Untitled_design__3_-removebg-preview.webp 200w"
+                                    media="(max-width: 768px)" width="200" height="252">
                                 <img src="https://codeagni.com/optimized_images/Untitled_design__3_-removebg-preview.webp"
-                                    width="393" height="495" alt="Hero Image">
+                                    width="300" height="378" alt="Hero Image">
                             </picture>
-
                         </div>
-                        <img alt="" class="hero-shape one" src="assets/images/banner/hosting.svg" />
+                       
                     </div>
-                    <div class="rts-hero__images--shape">
-                        <div class="one top-bottom">
-                            <img alt="" src="assets/images/banner/left.svg" />
-                        </div>
-                        <div class="two bottom-top">
-                            <img alt="" src="assets/images/banner/left.svg" />
-                        </div>
-                        <div class="three top-bottom">
-                            <img alt="" src="assets/images/banner/top.svg" />
-                        </div>
-                        <div class="four bottom-top">
-                            <img alt="" src="assets/images/banner/right.svg" />
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </div>
@@ -257,7 +229,7 @@
         <div class="row justify-content-center">
             <div class="rts-section text-center">
                 <h2 class="rts-section__title sal-animate" data-sal="slide-down" data-sal-delay="100"
-                    data-sal-duration="800">Choose Hosting Plan</h2>
+                    data-sal-duration="800">Choose Your Plan</h2>
                 <p class="rts-section__description w-420 sal-animate" data-sal="slide-down" data-sal-delay="300"
                     data-sal-duration="800">Globally incubate next-generation e-services via state of the art
                     technology.
@@ -349,14 +321,7 @@
                                                 data-bs-placement="bottom" data-bs-toggle="tooltip"><i
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
-                                        <li class="card-plan__feature--list-item">
-                                            <span class="text"><i class="fa-solid fa-xmark"></i> Blog
-                                                Integration</span>
-                                            <span class="tolltip"
-                                                data-bs-original-title="Blog functionality is not included in this plan."
-                                                data-bs-placement="bottom" data-bs-toggle="tooltip"><i
-                                                    class="fa-light fa-circle-question"></i></span>
-                                        </li>
+                                       
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-solid fa-xmark"></i> E-Commerce
                                                 Features</span>
@@ -443,13 +408,7 @@
                                                 data-bs-placement="bottom" data-bs-toggle="tooltip"><i
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
-                                        <li class="card-plan__feature--list-item">
-                                            <span class="text"><i class="fa-solid fa-check"></i> Blog
-                                                Integration</span>
-                                            <span class="tolltip" data-bs-original-title="Add a blog to your website."
-                                                data-bs-placement="bottom" data-bs-toggle="tooltip"><i
-                                                    class="fa-light fa-circle-question"></i></span>
-                                        </li>
+                                       
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-solid fa-xmark"></i> E-Commerce
                                                 Features</span>
@@ -535,13 +494,7 @@
                                                 data-bs-placement="bottom" data-bs-toggle="tooltip"><i
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
-                                        <li class="card-plan__feature--list-item">
-                                            <span class="text"><i class="fa-solid fa-check"></i> Blog
-                                                Integration</span>
-                                            <span class="tolltip" data-bs-original-title="Add a blog to your website."
-                                                data-bs-placement="bottom" data-bs-toggle="tooltip"><i
-                                                    class="fa-light fa-circle-question"></i></span>
-                                        </li>
+                                       
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-solid fa-check"></i> E-Commerce
                                                 Features</span>
@@ -632,14 +585,7 @@
                                                 data-bs-placement="bottom" data-bs-toggle="tooltip"><i
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
-                                        <li class="card-plan__feature--list-item">
-                                            <span class="text"><i class="fa-solid fa-xmark"></i> Blog
-                                                Integration</span>
-                                            <span class="tolltip"
-                                                data-bs-original-title="Blog functionality is not included in this plan."
-                                                data-bs-placement="bottom" data-bs-toggle="tooltip"><i
-                                                    class="fa-light fa-circle-question"></i></span>
-                                        </li>
+                                        
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-solid fa-xmark"></i> E-Commerce
                                                 Features</span>
@@ -725,13 +671,7 @@
                                                 data-bs-placement="bottom" data-bs-toggle="tooltip"><i
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
-                                        <li class="card-plan__feature--list-item">
-                                            <span class="text"><i class="fa-solid fa-check"></i> Blog
-                                                Integration</span>
-                                            <span class="tolltip" data-bs-original-title="Add a blog to your website."
-                                                data-bs-placement="bottom" data-bs-toggle="tooltip"><i
-                                                    class="fa-light fa-circle-question"></i></span>
-                                        </li>
+                                       
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-solid fa-xmark"></i> E-Commerce
                                                 Features</span>
@@ -817,13 +757,7 @@
                                                 data-bs-placement="bottom" data-bs-toggle="tooltip"><i
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
-                                        <li class="card-plan__feature--list-item">
-                                            <span class="text"><i class="fa-solid fa-check"></i> Blog
-                                                Integration</span>
-                                            <span class="tolltip" data-bs-original-title="Add a blog to your website."
-                                                data-bs-placement="bottom" data-bs-toggle="tooltip"><i
-                                                    class="fa-light fa-circle-question"></i></span>
-                                        </li>
+                                       
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-solid fa-check"></i> E-Commerce
                                                 Features</span>

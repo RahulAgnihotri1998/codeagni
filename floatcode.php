@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Code-Agni Chat</title>
+
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         :root {
@@ -216,8 +212,7 @@
   z-index: 999;
 }
     </style>
-</head>
-<body>
+
 <div class="chat-widget">
   <div class="chat-toggle">
     <i class="fab fa-whatsapp"></i>
@@ -354,14 +349,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 });
-document.addEventListener('DOMContentLoaded', () => {
-  const chatWidget = new ChatWidget();
 
-  // Add event listener to the "Open Chat" button
-  const openChatButton = document.querySelector('.open-chat-btn');
-  if (openChatButton) {
-    openChatButton.addEventListener('click', () => chatWidget.openChat());
-  }
-});
     </script>
-</html>

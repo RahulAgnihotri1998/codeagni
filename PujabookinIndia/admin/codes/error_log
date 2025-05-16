@@ -1,0 +1,40 @@
+[24-Apr-2024 07:46:31 UTC] PHP Warning:  Undefined array key "galleryImages" in /home/ictdzfbe/maidenstride.in/mla-new/admin/codes/add-product.php on line 61
+[24-Apr-2024 07:46:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ictdzfbe/maidenstride.in/mla-new/admin/codes/add-product.php on line 61
+[24-Apr-2024 07:46:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ictdzfbe/maidenstride.in/mla-new/admin/codes/add-product.php on line 61
+[24-Apr-2024 07:46:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/maidenstride.in/mla-new/admin/codes/add-product.php:61) in /home/ictdzfbe/maidenstride.in/mla-new/admin/codes/add-product.php on line 119
+[24-Apr-2024 08:02:56 UTC] PHP Warning:  Undefined array key "galleryImages" in /home/ictdzfbe/maidenstride.in/mla-new/admin/codes/add-product.php on line 61
+[24-Apr-2024 08:02:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ictdzfbe/maidenstride.in/mla-new/admin/codes/add-product.php on line 61
+[24-Apr-2024 08:02:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ictdzfbe/maidenstride.in/mla-new/admin/codes/add-product.php on line 61
+[24-Apr-2024 08:02:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/maidenstride.in/mla-new/admin/codes/add-product.php:61) in /home/ictdzfbe/maidenstride.in/mla-new/admin/codes/add-product.php on line 119
+[05-Apr-2025 07:43:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/brand-process.php:107) in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/brand-process.php on line 125
+[05-Apr-2025 07:43:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'kundli ' for key 'name' in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/brand-process.php:110
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/brand-process.php(110): mysqli->query('INSERT INTO cat...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/brand-process.php on line 110
+[05-Apr-2025 07:44:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'kundli ' for key 'name' in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/brand-process.php:110
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/brand-process.php(110): mysqli->query('INSERT INTO cat...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/brand-process.php on line 110
+[05-Apr-2025 08:22:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/edit-brand-process.php:121) in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/edit-brand-process.php on line 163
+[05-Apr-2025 08:22:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/edit-brand-process.php:121) in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/edit-brand-process.php on line 163
+[05-Apr-2025 08:23:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/edit-brand-process.php:121) in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/edit-brand-process.php on line 163
+[05-Apr-2025 08:23:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/edit-brand-process.php:121) in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/edit-brand-process.php on line 163
+[05-Apr-2025 08:24:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/edit-brand-process.php:121) in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/edit-brand-process.php on line 163
+[05-Apr-2025 08:44:36 UTC] PHP Warning:  Undefined array key "galleryImages" in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php on line 61
+[05-Apr-2025 08:44:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php on line 61
+[05-Apr-2025 08:44:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php on line 61
+[05-Apr-2025 08:44:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: CONSTRAINT `products.services` failed for `fymmcmpd_poojabookingindia`.`products` in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php:88
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php(88): mysqli->query('INSERT INTO pro...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php on line 88
+[05-Apr-2025 08:44:46 UTC] PHP Warning:  Undefined array key "galleryImages" in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php on line 61
+[05-Apr-2025 08:44:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php on line 61
+[05-Apr-2025 08:44:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php on line 61
+[05-Apr-2025 08:44:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: CONSTRAINT `products.services` failed for `fymmcmpd_poojabookingindia`.`products` in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php:88
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php(88): mysqli->query('INSERT INTO pro...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/add-product.php on line 88

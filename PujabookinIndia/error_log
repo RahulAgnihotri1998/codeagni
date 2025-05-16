@@ -1,0 +1,232 @@
+[04-Apr-2025 15:59:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/db.php:17
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/db.php(17): mysqli->__construct('localhost', 'root', '', 'puja-booking')
+#1 /home/fymmcmpd/public_html/PujabookinIndia/header.php(123): include('/home/fymmcmpd/...')
+#2 /home/fymmcmpd/public_html/PujabookinIndia/index.php(1): include('/home/fymmcmpd/...')
+#3 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/db.php on line 17
+[04-Apr-2025 16:00:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/db.php:17
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/db.php(17): mysqli->__construct('localhost', 'root', '', 'puja-booking')
+#1 /home/fymmcmpd/public_html/PujabookinIndia/header.php(123): include('/home/fymmcmpd/...')
+#2 /home/fymmcmpd/public_html/PujabookinIndia/index.php(1): include('/home/fymmcmpd/...')
+#3 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/db.php on line 17
+[04-Apr-2025 16:00:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/db.php:17
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/db.php(17): mysqli->__construct('localhost', 'root', '', 'puja-booking')
+#1 /home/fymmcmpd/public_html/PujabookinIndia/header.php(123): include('/home/fymmcmpd/...')
+#2 /home/fymmcmpd/public_html/PujabookinIndia/index.php(1): include('/home/fymmcmpd/...')
+#3 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/codes/db.php on line 17
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:06:59 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Warning:  Undefined array key "services" in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:07:00 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:09:32 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:10:13 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:16:11 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:16:14 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:16:15 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:16:15 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:16:16 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:16:16 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:16:16 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:16:16 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:16:17 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:16:23 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:16:32 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:27:44 UTC] PHP Parse error:  Unmatched '}' in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 405
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:28:41 UTC] PHP Warning:  Undefined variable $servicesJson in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 353
+[05-Apr-2025 09:40:54 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/services.php on line 63
+[05-Apr-2025 11:42:00 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/puja-details.php on line 51
+[05-Apr-2025 11:42:20 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/puja-details.php on line 51
+[05-Apr-2025 11:48:05 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/puja-details.php on line 51
+[05-Apr-2025 12:54:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image' in 'SELECT' in /home/fymmcmpd/public_html/PujabookinIndia/index.php:759
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/index.php(759): mysqli_query(Object(mysqli), 'SELECT title, s...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 759
+[05-Apr-2025 12:55:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image' in 'SELECT' in /home/fymmcmpd/public_html/PujabookinIndia/index.php:759
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/index.php(759): mysqli_query(Object(mysqli), 'SELECT title, s...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/index.php on line 759
+[06-Apr-2025 08:04:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/puja-details.php on line 92
+[06-Apr-2025 12:58:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/puja-details.php on line 92
+[07-Apr-2025 07:43:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/puja-details.php on line 92
+[07-Apr-2025 14:29:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/puja-details.php on line 92
+[08-Apr-2025 14:29:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fymmcmpd/public_html/PujabookinIndia/puja-details.php on line 92

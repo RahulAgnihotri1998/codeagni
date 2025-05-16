@@ -1,0 +1,133 @@
+[24-Apr-2024 07:12:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[24-Apr-2024 07:40:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[24-Apr-2024 07:41:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[25-Apr-2024 07:12:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[29-Apr-2024 06:23:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[30-Apr-2024 11:37:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[29-May-2024 13:17:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[31-May-2024 10:09:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[05-Jul-2024 07:46:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[05-Jul-2024 07:47:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[11-Jul-2024 16:02:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[11-Jul-2024 16:17:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[11-Jul-2024 16:17:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[11-Jul-2024 16:32:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[11-Jul-2024 16:32:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[12-Jul-2024 06:15:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[24-Jul-2024 07:23:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ictdzfbe/maidenstride.in/mla-new/admin/login.php on line 3
+[04-Apr-2025 16:05:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[04-Apr-2025 16:06:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[04-Apr-2025 16:07:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[04-Apr-2025 16:07:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[04-Apr-2025 16:13:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[05-Apr-2025 03:21:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[05-Apr-2025 07:42:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[05-Apr-2025 07:50:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[05-Apr-2025 08:00:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'fymmcmpd_poojabookingindia.Category' doesn't exist in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php:324
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php(324): mysqli->query('SELECT * FROM C...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php on line 324
+[05-Apr-2025 08:01:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'fymmcmpd_poojabookingindia.Category' doesn't exist in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php:324
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php(324): mysqli->query('SELECT * FROM C...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php on line 324
+[05-Apr-2025 08:01:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'fymmcmpd_poojabookingindia.Category' doesn't exist in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php:324
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php(324): mysqli->query('SELECT * FROM C...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php on line 324
+[05-Apr-2025 08:01:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'fymmcmpd_poojabookingindia.Category' doesn't exist in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php:324
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php(324): mysqli->query('SELECT * FROM C...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php on line 324
+[05-Apr-2025 08:01:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'fymmcmpd_poojabookingindia.Category' doesn't exist in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php:324
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php(324): mysqli->query('SELECT * FROM C...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php on line 324
+[05-Apr-2025 08:01:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'fymmcmpd_poojabookingindia.Category' doesn't exist in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php:324
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php(324): mysqli->query('SELECT * FROM C...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php on line 324
+[05-Apr-2025 08:01:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'fymmcmpd_poojabookingindia.Category' doesn't exist in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php:324
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php(324): mysqli->query('SELECT * FROM C...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/edit-brand.php on line 324
+[05-Apr-2025 08:02:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[05-Apr-2025 08:32:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[05-Apr-2025 09:30:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[05-Apr-2025 09:48:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'slug' in 'WHERE' in /home/fymmcmpd/public_html/PujabookinIndia/admin/update-action.php:17
+Stack trace:
+#0 /home/fymmcmpd/public_html/PujabookinIndia/admin/update-action.php(17): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/fymmcmpd/public_html/PujabookinIndia/admin/update-action.php on line 17
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:51:24 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:45 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:52:58 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "cat_name" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 116
+[05-Apr-2025 09:53:30 UTC] PHP Warning:  Undefined array key "slug" in /home/fymmcmpd/public_html/PujabookinIndia/admin/categories.php on line 117
+[05-Apr-2025 10:28:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[05-Apr-2025 11:32:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[05-Apr-2025 12:47:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[06-Apr-2025 07:55:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[06-Apr-2025 08:03:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[06-Apr-2025 08:06:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[07-Apr-2025 11:20:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[10-Apr-2025 09:00:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3
+[10-Apr-2025 09:07:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fymmcmpd/public_html/PujabookinIndia/admin/login.php on line 3

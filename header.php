@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,13 +10,13 @@
     <!-- Open Graph Social Media -->
     <meta property="og:title" content="Code Agni - Affordable Website Development & Subscription Services">
     <meta property="og:description" content="Best web design company for small businesses offering custom e-commerce website development and subscription-based website design services in India.">
-    <meta property="og:image" content="https://www.codeagni.com/assets/images/banner/slider-img-01.webp">
+    <meta property="og:image" content="https://codeagni.com/optimized_images/about-us.webp">
     <meta property="og:url" content="https://codeagni.com">
     <!-- Twitter Sharing -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Code Agni - Website Development Company in India">
     <meta name="twitter:description" content="Affordable website subscription plans and custom website development services like Wix and Squarespace for small businesses.">
-    <meta name="twitter:image" content="https://www.codeagni.com/assets/images/banner/slider-img-01.webp">
+    <meta name="twitter:image" content="https://codeagni.com/optimized_images/about-us.webp">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="optimized_images/fevicon.png">
 

@@ -38,7 +38,16 @@
     
 }
 </style>
-<section class="rts-hero rts-hero__one banner-style-home-one">
+<style>
+@media (min-width: 769px) {
+    .mobile-banner { display: none; }
+}
+@media (max-width: 768px) {
+    .desktop-banner { display: none; }
+}
+</style>
+<section class="desktop-banner">
+ <section class="rts-hero rts-hero__one banner-style-home-one">
     <div class="container">
         <div class="rts-hero__blur-area"></div>
         <div class="row align-items-end position-relative">
@@ -85,6 +94,31 @@
         </div>
     </div>
 </section>
+</section>
+<section class="mobile-banner" style="background: linear-gradient(91.95deg, #502308 3.85%, #000000 101.14%);">
+   <section style="padding: 400px 32px 233px 15px; text-align: center; position: relative; overflow: hidden;">
+    <div style="max-width: 90%; margin: 0 auto;">
+        <h1 style="font-size: 24px; line-height: 1.2; color: #fff; margin: 0 0 10px;">
+            Build Your Dream Website for ₹299/month!
+        </h1>
+        <p style="font-size: 14px; color: #fff; margin: 0 0 15px;">
+            Get a professionally designed website with all features, updated and live.
+        </p>
+        <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+            <a href="contact-us.php" style="background: #ff6200; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 14px;">
+                Contact Us →
+            </a>
+            <a href="contact-us.php" style="background: #fff; color: #ff6200; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 14px; border: 1px solid #ff6200;">
+                Plans & Pricing →
+            </a>
+        </div>
+        <p style="font-size: 12px; color: #fff; margin: 10px 0 0;">
+            <img src="assets/images/icon/dollar.svg" alt="Dollar Icon" style="width: 16px; vertical-align: middle;"> Starting from <span style="font-weight: bold;">₹299</span>/month
+        </p>
+    </div>
+</section>
+</section>
+
 <style>
 </style>
 <div class="rts-about position-relative section__padding">
@@ -298,10 +332,10 @@
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
                                         <li class="card-plan__feature--list-item">
-                                            <span class="text"><i class="fa-solid fa-check"></i> Free Hosting &amp;
-                                                Domain</span>
+                                            <span class="text"><i class="fa-solid fa-check"></i> Free Hosting 
+                                                </span>
                                             <span class="tolltip"
-                                                data-bs-original-title="Enjoy free hosting and a custom domain for your website."
+                                                data-bs-original-title="Enjoy free hosting and a sub domain for your website."
                                                 data-bs-placement="bottom" data-bs-toggle="tooltip"><i
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
@@ -385,10 +419,9 @@
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
                                         <li class="card-plan__feature--list-item">
-                                            <span class="text"><i class="fa-solid fa-check"></i> Free Hosting &amp;
-                                                Domain</span>
+                                            <span class="text"><i class="fa-solid fa-check"></i> Free Hosting </span>
                                             <span class="tolltip"
-                                                data-bs-original-title="Enjoy free hosting and a custom domain for your website."
+                                                data-bs-original-title="Enjoy free hosting  for your website."
                                                 data-bs-placement="bottom" data-bs-toggle="tooltip"><i
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
@@ -562,10 +595,9 @@
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>
                                         <li class="card-plan__feature--list-item">
-                                            <span class="text"><i class="fa-solid fa-check"></i> Free Hosting &amp;
-                                                Domain</span>
+                                            <span class="text"><i class="fa-solid fa-check"></i> Free Hosting </span>
                                             <span class="tolltip"
-                                                data-bs-original-title="Enjoy free hosting and a custom domain for your website."
+                                                data-bs-original-title="Enjoy free hosting and a sub domain for your website."
                                                 data-bs-placement="bottom" data-bs-toggle="tooltip"><i
                                                     class="fa-light fa-circle-question"></i></span>
                                         </li>

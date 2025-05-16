@@ -1,5 +1,9 @@
 User-agent: *
 Allow: /
-Disallow: /admin/          # Block admin areas if applicable
-Disallow: /private/        # Block private dirs if any
+Allow: /assets/          # Allow CSS, JS, and images
+Allow: /optimized_images/ # Allow optimized images
+Disallow: /admin/
+Disallow: /private/
+Disallow: /wp-admin/      # Block common CMS admin paths (if applicable)
+Disallow: /cgi-bin/       # Block server scripts if not needed
 Sitemap: https://codeagni.com/sitemap.xml
